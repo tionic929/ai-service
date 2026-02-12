@@ -1,6 +1,6 @@
 flask
 flask-cors
-rembg
+rembg[cpu]
 pillow
 opencv-python-headless
 numpy
